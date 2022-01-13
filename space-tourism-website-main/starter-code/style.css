@@ -1,0 +1,45 @@
+body {
+    background-image: url("assets/home/background-home-desktop.jpg");
+}
+
+h1 {
+    font-family: 'Bellefair';
+    font-size: 150px;
+}
+
+h2 {
+    font-family: 'Bellefair';
+    font-size: 100px;
+}
+
+h3 {
+    font-family: 'Bellefair';
+    font-size: 56px;
+}
+
+h4 {
+    font-family: 'Bellefair';
+    font-size: 32px;
+}
+
+h5 {
+    font-family: 'Barlow Condensed';
+    font-size: 28px;
+    letter-spacing: 4.75;
+}
+
+
+/* Navigation */
+
+.navbar {
+    margin: 3% 0;
+    padding: 2% 10% 2% 2%;
+}
+
+.nav-link {
+    font-family: 'Barlow Condensed';
+    font-size: 28px;
+    letter-spacing: 4.75;
+    margin: 0 20px;
+    text-transform: uppercase;
+}
